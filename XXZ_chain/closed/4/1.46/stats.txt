@@ -1,0 +1,5 @@
+residual energy=6.2758108150262615e-06
+learning rate=0.01
+fidelity=1.0000001456955938
+converged=True
+epochs converged=242
